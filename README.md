@@ -3,12 +3,18 @@
 ![Alt text](./Screenshot.png?raw=true "Title")
 
 ## После загрузки исходников проекта в консоль ввести
+
 ```
 npm install
 ```
- cd backend 
+```
+npm run serve
+```
+```
+cd backend 
  ```
- npm install
+ ```
+npm install
 ```
 node index.js
 ```
