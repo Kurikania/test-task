@@ -1,7 +1,6 @@
 # oyster-test
 
-
-![Alt text](./Screenshot (7).png?raw=true "Title")
+![Alt text](./Screenshot.png?raw=true "Title")
 
 ## После загрузки исходников проекта в консоль ввести
 ```
@@ -13,8 +12,9 @@ npm install
 ```
 node index.js
 ```
+```
 ## Приложение будет доступно через порт 8080
-
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
